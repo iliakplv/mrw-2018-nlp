@@ -1,4 +1,6 @@
-# Breaking the ice with Natural Language Processing 📖🤖💬
+# Breaking the ice with Natural Language Processing
+
+📖🤖💬
 
 [Ilia Kopylov](https://iliakplv.github.io/)
 
