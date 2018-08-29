@@ -1,2 +1,68 @@
-# mrw-2018-nlp
-Breaking the ice with NLP - Mobile Refresh 2018
+# Breaking the ice with Natural Language Processing
+[Ilia Kopylov](https://iliakplv.github.io/)
+
+[Mobile Refresh](http://mrw.gdg.nz/) | Wellington | 2018
+
+### High-level concepts
+
+[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+[Named-entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
+
+[Bag-of-words](https://en.wikipedia.org/wiki/Bag-of-words_model)
+
+[TF-IDF](https://en.wikipedia.org/wiki/Tf–idf)
+
+[Word embeddings](https://en.wikipedia.org/wiki/Word_embedding)
+
+[Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+[Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering)
+
+### Articles & Tutorials
+
+[How to solve 90% of NLP problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+
+[Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
+
+[Classifying text with TensorFlow Estimators](https://medium.com/tensorflow/classifying-text-with-tensorflow-estimators-a99603033fbe)
+
+[Working With Text Data (scikit-learn)](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
+[Vector Representations of Words](https://www.tensorflow.org/tutorials/representation/word2vec)
+
+[Deep Learning NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
+### Libraries
+
+[TensorFlow](https://www.tensorflow.org/)
+
+[scikit-learn](http://scikit-learn.org/stable/index.html)
+
+[NLTK](http://www.nltk.org/)
+
+[TextBlob](https://textblob.readthedocs.io/en/dev/)
+
+[fastText](https://github.com/facebookresearch/fastText)
+
+[StarSpace](https://github.com/facebookresearch/StarSpace)
+
+### Cloud Services
+
+[Dialogflow](https://dialogflow.com/)
+
+[Google Cloud NLP](https://cloud.google.com/natural-language/)
+
+[IBM Watson](https://www.ibm.com/watson/)
+
+[AWS Machine Learning](https://aws.amazon.com/machine-learning/)
+
+[Microsoft Cognitive Services (Language)](https://azure.microsoft.com/en-us/services/cognitive-services/directory/lang/)
+
+### Awesomeness
+
+[awesome-nlp](https://github.com/keon/awesome-nlp)
+
+[NLP-progress](https://github.com/sebastianruder/NLP-progress)
+
+[Semantic Experiences (by Google)](https://research.google.com/semanticexperiences/)
