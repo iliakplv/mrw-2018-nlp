@@ -1,4 +1,5 @@
-# Breaking the ice with Natural Language Processing
+# Breaking the ice with Natural Language Processing 📖🤖💬
+
 [Ilia Kopylov](https://iliakplv.github.io/)
 
 [Mobile Refresh](http://mrw.gdg.nz/) | Wellington | 2018
