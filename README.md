@@ -3,7 +3,7 @@
 
 [Mobile Refresh](http://mrw.gdg.nz/) | Wellington | 2018
 
-### High-level concepts
+## High-level concepts
 
 [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
@@ -17,9 +17,11 @@
 
 [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
+[Feature (in ML context)](https://en.wikipedia.org/wiki/Feature_(machine_learning))
+
 [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering)
 
-### Articles & Tutorials
+## Articles & Tutorials
 
 [How to solve 90% of NLP problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
@@ -33,7 +35,7 @@
 
 [Deep Learning NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
-### Libraries
+## Libraries
 
 [TensorFlow](https://www.tensorflow.org/)
 
@@ -47,7 +49,7 @@
 
 [StarSpace](https://github.com/facebookresearch/StarSpace)
 
-### Cloud Services
+## Cloud Services
 
 [Dialogflow](https://dialogflow.com/)
 
@@ -59,7 +61,7 @@
 
 [Microsoft Cognitive Services (Language)](https://azure.microsoft.com/en-us/services/cognitive-services/directory/lang/)
 
-### Awesomeness
+## Awesomeness
 
 [awesome-nlp](https://github.com/keon/awesome-nlp)
 
