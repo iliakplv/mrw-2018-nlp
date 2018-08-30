@@ -14,6 +14,12 @@
 
 [Bag-of-words](https://en.wikipedia.org/wiki/Bag-of-words_model)
 
+[Stop words](https://en.wikipedia.org/wiki/Stop_words)
+
+[Stemming](https://en.wikipedia.org/wiki/Stemming)
+
+[Lemmatisation](https://en.wikipedia.org/wiki/Lemmatisation)
+
 [TF-IDF](https://en.wikipedia.org/wiki/Tf–idf)
 
 [Word embeddings](https://en.wikipedia.org/wiki/Word_embedding)
