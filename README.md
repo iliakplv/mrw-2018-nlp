@@ -38,6 +38,8 @@
 
 [Classifying text with TensorFlow Estimators](https://medium.com/tensorflow/classifying-text-with-tensorflow-estimators-a99603033fbe)
 
+[How to Use Word Embedding Layers for Deep Learning with Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
+
 [Working With Text Data (scikit-learn)](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
 [Vector Representations of Words](https://www.tensorflow.org/tutorials/representation/word2vec)
