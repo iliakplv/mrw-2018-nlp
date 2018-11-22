@@ -78,4 +78,8 @@
 
 [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 
+[Pretrained Word Embeddings](https://research.google.com/seedbank/seed/5636318331666432) (Seedbank)
+
+[Text Embeddings models](https://tfhub.dev/s?module-type=text-embedding) (TensorFlow Hub)
+
 [Semantic Experiences (by Google)](https://research.google.com/semanticexperiences/)
