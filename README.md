@@ -4,8 +4,6 @@
 
 [Ilia Kopylov](https://iliakplv.github.io/)
 
-[Mobile Refresh](http://mrw.gdg.nz/) | Wellington | 2018
-
 ## High-level concepts
 
 [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
@@ -41,6 +39,8 @@
 [How to Use Word Embedding Layers for Deep Learning with Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
 
 [Working With Text Data (scikit-learn)](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 [Vector Representations of Words](https://www.tensorflow.org/tutorials/representation/word2vec)
 
